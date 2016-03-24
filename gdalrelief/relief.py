@@ -5,6 +5,7 @@ from osgeo import gdal
 import matplotlib.pyplot as plt
 import gdalrelief.diff as diff
 #import scipy
+#test
 
 TESTRASTER="../data/Goloustnoye/ALTITUDE 1Trim.grd"
 
