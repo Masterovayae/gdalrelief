@@ -12,7 +12,6 @@ from gdalrelief import metadata
 
 def main(argv):
     """Program entry point.
-
     :param argv: command-line arguments
     :type argv: :class:`list`
     """
@@ -22,7 +21,6 @@ def main(argv):
 
     epilog = '''
 {project} {version}
-
 {authors}
 URL: <{url}>
 '''.format(

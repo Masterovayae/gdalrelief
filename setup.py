@@ -256,7 +256,7 @@ setup_dict = dict(
     install_requires=[
         # your module dependencies
         "numpy",
-        "scipy",
+        #"scipy",
         "gdal",
         "matplotlib",
     ] + python_version_specific_requires,
